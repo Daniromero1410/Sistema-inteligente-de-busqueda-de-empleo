@@ -495,7 +495,8 @@ Este proyecto está abierto a contribuciones. Áreas de interés:
 ## Autor
 
 **Daniel Romero**  
-Ingeniero Civil - Especialista en Automatización y Análisis de Datos
+Ingeniero de Software
+
 
 **Afiliación:**  
 Universidad de Santander (UDES)  

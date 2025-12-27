@@ -1,0 +1,35 @@
+# Sistema de Búsqueda Inteligente de Empleo
+# Dependencias del proyecto
+
+# Procesamiento de PDF
+PyPDF2>=3.0.0
+
+# Web Scraping
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Utilidades
+python-dateutil>=2.8.0
+
+# Jupyter Support (opcional para desarrollo local)
+jupyter>=1.0.0
+ipython>=8.0.0
+notebook>=7.0.0
+
+# NOTAS DE INSTALACIÓN:
+#
+# INSTALACIÓN COMPLETA:
+# pip install -r requirements.txt
+#
+# INSTALACIÓN MÍNIMA (solo core):
+# pip install PyPDF2 requests beautifulsoup4 lxml
+#
+# GOOGLE COLAB:
+# La mayoría de dependencias vienen pre-instaladas
+# Solo ejecutar: !pip install PyPDF2 requests beautifulsoup4 lxml
+#
+# DEPENDENCIAS OPCIONALES:
+# - pandas: Para análisis de datos más avanzado
+# - selenium: Para scraping dinámico (si se implementa)
+# - nltk: Para procesamiento de lenguaje natural avanzado
